@@ -2,6 +2,8 @@
 
 A simple and interactive web application for managing a task list (Todo List), built from scratch to practice asynchronous JavaScript and REST API integration.
 
+**🔗 [View Live Demo](https://alenkif12-ux.github.io/home-work-30/)**
+
 ## 🚀 Features
 * **GET** — Fetch and display the task list dynamically from the server.
 * **POST** — Add a new task using an input field and button.
